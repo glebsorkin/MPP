@@ -1,0 +1,26 @@
+C:/Users/User/RiderProjects/MPP_lab3/MPP_lab3/bin/Debug/netcoreapp3.1/MPP_lab3.exe
+C:/Users/User/RiderProjects/MPP_lab3/MPP_lab3/bin/Debug/netcoreapp3.1/MPP_lab3.deps.json
+C:/Users/User/RiderProjects/MPP_lab3/MPP_lab3/bin/Debug/netcoreapp3.1/MPP_lab3.runtimeconfig.json
+C:/Users/User/RiderProjects/MPP_lab3/MPP_lab3/bin/Debug/netcoreapp3.1/MPP_lab3.runtimeconfig.dev.json
+C:/Users/User/RiderProjects/MPP_lab3/MPP_lab3/bin/Debug/netcoreapp3.1/MPP_lab3.dll
+C:/Users/User/RiderProjects/MPP_lab3/MPP_lab3/bin/Debug/netcoreapp3.1/MPP_lab3.pdb
+C:/Users/User/RiderProjects/MPP_lab3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.csprojAssemblyReference.cache
+C:/Users/User/RiderProjects/MPP_lab3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.AssemblyInfoInputs.cache
+C:/Users/User/RiderProjects/MPP_lab3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.AssemblyInfo.cs
+C:/Users/User/RiderProjects/MPP_lab3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.csproj.CoreCompileInputs.cache
+C:/Users/User/RiderProjects/MPP_lab3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.dll
+C:/Users/User/RiderProjects/MPP_lab3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.pdb
+C:/Users/User/RiderProjects/MPP_lab3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.genruntimeconfig.cache
+/Users/gleb/Desktop/MPP 3/MPP_lab3/bin/Debug/netcoreapp3.1/MPP_lab3.deps.json
+/Users/gleb/Desktop/MPP 3/MPP_lab3/bin/Debug/netcoreapp3.1/MPP_lab3.runtimeconfig.json
+/Users/gleb/Desktop/MPP 3/MPP_lab3/bin/Debug/netcoreapp3.1/MPP_lab3.runtimeconfig.dev.json
+/Users/gleb/Desktop/MPP 3/MPP_lab3/bin/Debug/netcoreapp3.1/MPP_lab3.dll
+/Users/gleb/Desktop/MPP 3/MPP_lab3/bin/Debug/netcoreapp3.1/MPP_lab3.pdb
+/Users/gleb/Desktop/MPP 3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.csproj.AssemblyReference.cache
+/Users/gleb/Desktop/MPP 3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gleb/Desktop/MPP 3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.AssemblyInfoInputs.cache
+/Users/gleb/Desktop/MPP 3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.AssemblyInfo.cs
+/Users/gleb/Desktop/MPP 3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.csproj.CoreCompileInputs.cache
+/Users/gleb/Desktop/MPP 3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.dll
+/Users/gleb/Desktop/MPP 3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.pdb
+/Users/gleb/Desktop/MPP 3/MPP_lab3/obj/Debug/netcoreapp3.1/MPP_lab3.genruntimeconfig.cache
