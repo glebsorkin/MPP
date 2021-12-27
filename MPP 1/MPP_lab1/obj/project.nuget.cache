@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a8zD9bKScm2nhP6m2QxNpte8h/yknoZD/kfRjUMbqkZCHfg3DV5iIkL60wJvKfrt/6LHDouh4Deux62g2OsKqg==",
+  "success": true,
+  "projectFilePath": "/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/MPP_lab1.csproj",
+  "expectedPackageFiles": [
+    "/Users/gleb/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/gleb/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

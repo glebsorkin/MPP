@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MPP_lab4/1.0.0": {
+        "runtime": {
+          "MPP_lab4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MPP_lab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+C:/Users/User/RiderProjects/MPP_lab1/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.csprojAssemblyReference.cache
+C:/Users/User/RiderProjects/MPP_lab1/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.AssemblyInfoInputs.cache
+C:/Users/User/RiderProjects/MPP_lab1/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.AssemblyInfo.cs
+C:/Users/User/RiderProjects/MPP_lab1/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.csproj.CoreCompileInputs.cache
+C:/Users/User/RiderProjects/MPP_lab1/MPP_lab1/bin/Debug/netcoreapp3.1/MPP_lab1.exe
+C:/Users/User/RiderProjects/MPP_lab1/MPP_lab1/bin/Debug/netcoreapp3.1/MPP_lab1.deps.json
+C:/Users/User/RiderProjects/MPP_lab1/MPP_lab1/bin/Debug/netcoreapp3.1/MPP_lab1.runtimeconfig.json
+C:/Users/User/RiderProjects/MPP_lab1/MPP_lab1/bin/Debug/netcoreapp3.1/MPP_lab1.runtimeconfig.dev.json
+C:/Users/User/RiderProjects/MPP_lab1/MPP_lab1/bin/Debug/netcoreapp3.1/MPP_lab1.dll
+C:/Users/User/RiderProjects/MPP_lab1/MPP_lab1/bin/Debug/netcoreapp3.1/MPP_lab1.pdb
+C:/Users/User/RiderProjects/MPP_lab1/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.dll
+C:/Users/User/RiderProjects/MPP_lab1/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.pdb
+C:/Users/User/RiderProjects/MPP_lab1/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.genruntimeconfig.cache
+/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/bin/Debug/netcoreapp3.1/MPP_lab1.deps.json
+/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/bin/Debug/netcoreapp3.1/MPP_lab1.runtimeconfig.json
+/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/bin/Debug/netcoreapp3.1/MPP_lab1.runtimeconfig.dev.json
+/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/bin/Debug/netcoreapp3.1/MPP_lab1.dll
+/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/bin/Debug/netcoreapp3.1/MPP_lab1.pdb
+/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.csproj.AssemblyReference.cache
+/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.AssemblyInfoInputs.cache
+/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.AssemblyInfo.cs
+/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.csproj.CoreCompileInputs.cache
+/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.dll
+/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.pdb
+/Users/gleb/Desktop/3 сем/СПП/MPP 1-2/MPP_lab1/obj/Debug/netcoreapp3.1/MPP_lab1.genruntimeconfig.cache
